@@ -34,14 +34,14 @@ params:
   author:
     name: "Fredrik Jonsson"
     url: "https://xdeb.org"
-  contact: "frjo@xdeb.org"
+  contact: ""
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
-  favicon: "apple-touch-icon.png"
+  favicon: "photo.jpg"
   feedlinks: true
-  icon: "apple-touch-icon.png"
-  image: "apple-touch-icon.png"
+  icon: "photo.jpg"
+  image: "photo.jpg"
   imageMaxWidth: 400
   logoWidth: 64
   logoHeight: 64
