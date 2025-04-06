@@ -1,5 +1,5 @@
 ---
-title: "Zen demo site"
+title: "litu's blog"
 baseURL: "https://zen-demo.xdeb.org/"
 theme: "github.com/frjo/hugo-theme-zen/v5"
 languageCode: "en-GB"
@@ -67,30 +67,19 @@ languages:
         - Name: "Blog"
           weight: 2
           pageRef: "/blog/"
-        - Name: "Podcast"
-          weight: 4
-          pageRef: "/podcast/"
-        - Name: "Products"
-          weight: 6
-          pageRef: "/products/"
-        - Name: "Misc"
-          weight: 8
-          pageRef: "/misc/"
-        - Name: "Search"
-          weight: 10
-          pageRef: "/search/"
+        # - Name: "Podcast"
+          # weight: 4
+          # pageRef: "/podcast/"
+        # - Name: "Products"
+          # weight: 6
+          # pageRef: "/products/"
+        # - Name: "Misc"
+        #   weight: 8
+        #   pageRef: "/misc/"
+        # - Name: "Search"
+        #   weight: 10
+        #   pageRef: "/search/"
         - Name: "Contact"
           weight: 12
           pageRef: "/contact/"
-
-  sv:
-    weight: 2
-    languageName: "Svenska"
-    languageCode: "sv-SE"
-    contentDir: content/sv
-    menu:
-      main:
-        - Name: "Hem"
-          weight: -10
-          pageRef: "/"
 
