@@ -5,7 +5,7 @@
     {
       "src": "/photo.jpg",
       "sizes": "311x311",
-      "type": "image/png",
+      "type": "image/jpg",
       "purpose": "maskable"
     }
   ],
